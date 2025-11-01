@@ -33,3 +33,15 @@ It integrates the **Google Gemini API** to generate smart and dynamic chat respo
 3. Gemini processes the request and returns a smart response.  
 4. The response is displayed in the chat interface and stored in **SQLite** as chat history.
 
+
+---
+
+## 🧑‍💻 Developer
+
+Vishakha Yadav
+
+📧 Email: vishakhay07@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/vishakha-yadav-199b38370
+
+
+
